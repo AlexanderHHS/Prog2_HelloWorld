@@ -6,7 +6,7 @@ Welcome to your first C++ assignment!
 
 1. Accept the assignment link from GitHub Classroom.
 2. Open your repository in Codespaces.
-3. Edit `main.cpp` as needed.
+3. Edit `main.cpp` as needed to output Hello World! to the terminal.
 4. Run the build and tests in the terminal:
    ```
    cmake -S . -B build
